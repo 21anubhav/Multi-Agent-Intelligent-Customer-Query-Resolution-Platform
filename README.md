@@ -251,15 +251,7 @@ GOOGLE_CLIENT_SECRET=your_client_secret
 
 ---
 
-# 📸 Screenshots
 
-Add screenshots here:
-
-```text
-screenshots/dashboard.png
-screenshots/tickets.png
-screenshots/chatbot.png
-```
 
 ---
 
